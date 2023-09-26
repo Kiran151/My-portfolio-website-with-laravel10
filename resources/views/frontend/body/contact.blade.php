@@ -85,6 +85,10 @@ style="background-image:  url(uploads/home/{{$image}})">
                                     <li><a href="{{$data->linkedin_link}}"><span
                                                 class="ico-circle">
                                                 <i class="bi bi-linkedin"></i></span></a></li>
+                                                <li>    <a href="https://api.whatsapp.com/send?phone=+919207610962&text=Hello"><span
+                                                    class="ico-circle">
+                                                    <i class="bi bi-whatsapp"></i></span></a></li>
+
                                 </ul>
                             </div>
                         </div>
